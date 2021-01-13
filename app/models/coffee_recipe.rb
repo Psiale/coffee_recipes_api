@@ -1,0 +1,2 @@
+class CoffeeRecipe < ApplicationRecord
+end

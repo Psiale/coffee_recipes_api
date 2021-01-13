@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  method: MyString
+  variety: MyString
+  benefit: MyString
+  origin: MyString
+  water: MyString
+  weight: MyString
+  description: MyText
+
+two:
+  method: MyString
+  variety: MyString
+  benefit: MyString
+  origin: MyString
+  water: MyString
+  weight: MyString
+  description: MyText
